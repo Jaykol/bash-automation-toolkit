@@ -8,3 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ludeeus/action-shellcheck@master
+        with:
+          additional_files: 'lib/common.sh'
+          shellcheck_flags: '--external-sources'
