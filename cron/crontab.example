@@ -1,0 +1,8 @@
+# Bash Automation Toolkit — example cron entries
+# Edit with: crontab -e
+
+# Disk usage check — daily at 8am
+0 8 * * * /bin/bash /path/to/bash-automation-toolkit/scripts/disk-monitor/disk_alert.sh
+
+# Disk usage check — every 6 hours
+0 */6 * * * /bin/bash /path/to/bash-automation-toolkit/scripts/disk-monitor/disk_alert.sh
