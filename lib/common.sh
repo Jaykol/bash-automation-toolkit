@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck source=lib/common.sh
 # lib/common.sh — shared utilities for the bash automation toolkit
 
 set -euo pipefail

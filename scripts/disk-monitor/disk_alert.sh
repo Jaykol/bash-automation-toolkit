@@ -3,6 +3,7 @@
 # Checks disk usage and warns when filesystems exceed the threshold.
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck disable=SC1091
 source "$SCRIPT_DIR/../../lib/common.sh"
 
 THRESHOLD=80
