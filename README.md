@@ -1,3 +1,4 @@
+[![ShellCheck](https://github.com/Jaykol/bash-automation-toolkit/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/Jaykol/bash-automation-toolkit/actions/workflows/shellcheck.yml)
 # Bash Automation Toolkit
 
 A collection of production-quality Bash scripts for Linux system administration tasks — built with structured logging, error handling, and cron scheduling.
