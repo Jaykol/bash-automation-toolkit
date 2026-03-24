@@ -1,4 +1,4 @@
-![ShellCheck](https://github.com/Jaykol/bash-automation-toolkit/actions/workflows/shellcheck.yml/badge.svg)
+[![ShellCheck](https://github.com/Jaykol/bash-automation-toolkit/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/Jaykol/bash-automation-toolkit/actions/workflows/shellcheck.yml)
 
 # Bash Automation Toolkit
 
